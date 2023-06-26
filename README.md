@@ -1,7 +1,7 @@
 # Ers-GiftBox
 
-                                                         Giftbox System [Stater Pack]
-                                      Free, open source starter gift box using the QBCore Framework
+                        Giftbox System [Stater Pack]
+        Free, open source starter gift box using the QBCore Framework
 
 
 
